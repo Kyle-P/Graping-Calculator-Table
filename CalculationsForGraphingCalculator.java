@@ -43,7 +43,7 @@ public class CalculationsForGraphingCalculator {
 
 	}
 
-	//Author: https://stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form
+	//https://stackoverflow.com/questions/3422673/evaluating-a-math-expression-given-in-string-form
 	public static double eval(final String str) {
 	    return new Object() {
 	        int pos = -1, ch;
